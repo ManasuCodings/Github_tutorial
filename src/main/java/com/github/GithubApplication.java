@@ -20,7 +20,6 @@ public class GithubApplication {
     }
      public void email(String email){
         System.out.printf(email);
-
     }
 
 }
