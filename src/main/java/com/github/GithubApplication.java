@@ -22,5 +22,9 @@ public class GithubApplication {
         System.out.printf(email);
         System.out.printf("basu");
     }
+     public void email(String email){
+        System.out.printf(email);
+        System.out.printf("basu");
+    }
 
 }
