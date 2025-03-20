@@ -14,8 +14,12 @@ public class GithubApplication {
 
         if (data.equals(Constant.DATA_Type)) {
 
+            int x=30;
             System.out.printf("welcome");
         }
+    }
+    public void findUserId(String userid){
+        System.out.print(userid);
     }
 
 }
