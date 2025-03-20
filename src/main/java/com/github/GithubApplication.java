@@ -12,7 +12,6 @@ public class GithubApplication {
 
     public void addData(String data) {
         if (data.equals(Constant.DATA_Type)) {
-            int x=30;
             System.out.printf("welcome");
         }
     }
