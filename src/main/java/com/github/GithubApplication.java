@@ -18,8 +18,8 @@ public class GithubApplication {
             System.out.printf("welcome");
         }
     }
-    public void findUserId(String userid){
-        System.out.print(userid);
+    public void findBySalary(long salary){
+        System.out.print(salary);
     }
 
 }
