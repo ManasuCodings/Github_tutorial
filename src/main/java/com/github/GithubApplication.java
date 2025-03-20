@@ -20,6 +20,7 @@ public class GithubApplication {
     }
     public void findUserByEmail(String email){
         System.out.printf(email);
+        System.out.printf("basu);
     }
 
 }
