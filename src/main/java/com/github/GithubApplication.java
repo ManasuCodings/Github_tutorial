@@ -18,8 +18,8 @@ public class GithubApplication {
             System.out.printf("welcome");
         }
     }
-    public void findBySalary(long salary){
-        System.out.print(salary);
+    public void findUserByEmail(String email){
+        System.out.printf(email);
     }
 
 }
