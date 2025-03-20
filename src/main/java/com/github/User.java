@@ -6,4 +6,8 @@ public class User {
     private int age;
     private String address;
     private String email;
+
+    public void userBook(String userBook){
+        System.out.print("userBook");
+    }
 }
