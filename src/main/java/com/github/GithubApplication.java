@@ -11,20 +11,16 @@ public class GithubApplication {
     }
 
     public void addData(String data) {
-
         if (data.equals(Constant.DATA_Type)) {
-
-            int x=30;
             System.out.printf("welcome");
         }
     }
     public void findUserByEmail(String email){
         System.out.printf(email);
-        System.out.printf("basu");
     }
      public void email(String email){
         System.out.printf(email);
-        System.out.printf("basu");
+
     }
 
 }
