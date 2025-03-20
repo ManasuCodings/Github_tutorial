@@ -7,7 +7,7 @@ public class User {
     private String address;
     private String email;
 
-    public void userBook(String userbook){
-        System.out.printf("userbook");
+    public void userBook(String userBook){
+        System.out.print("userBook");
     }
 }
